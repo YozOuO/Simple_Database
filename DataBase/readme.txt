@@ -1,4 +1,4 @@
-資料庫名ezgame_database
-請建立管理員賬號:HHJ
-密碼:S10459015
+璩囨枡搴悕ezgame_database
+璜嬪缓绔嬬鐞嗗摗璩櫉:Yoz
+瀵嗙⒓:S10459023
 phpmyadmin : http://localhost:80/phpmyadmin/tbl_structure.php?server=1&db=ezgame_database
