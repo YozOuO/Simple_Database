@@ -1,0 +1,1 @@
+複製到XAMPP路徑下的htdocs文件夾裏（替換同名文件）
